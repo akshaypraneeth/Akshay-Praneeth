@@ -1,4 +1,6 @@
-🎥 TeamPulse – Real-Time Communication for Distributed Teams
+🎥 TeamPulse
+
+– Real-Time Communication for Distributed Teams
 Role: Product Consultant
 Type: B2B SaaS | Audio/Video Communication
 Duration: 2023 – 2024
