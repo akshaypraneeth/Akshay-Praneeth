@@ -1,7 +1,7 @@
 🤖 EngageAI – AI Coach Bot
 Role: Product Manager
 Type: Conversational AI | L&D Tech
-Duration: 2023 – Present
+Duration: 2024 – Present
 
 🚩 Problem / Opportunity
 Numly’s coaching platform offered live coaching as its core feature. However, scaling 1:1 human coaching to every employee across different time zones, languages, and availability was expensive and unscalable.
